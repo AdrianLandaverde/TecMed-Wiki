@@ -1,6 +1,6 @@
 ---
-title: "Participantes"
-description: "Esta es una lista de participantes."
+title: "Titulo"
+description: "Descripción."
 ---
 
-En esta sección se muestran los participantes de este proyecto
+Este es un párrafo introductorio al proyecto de análisis de datos del TecMed
