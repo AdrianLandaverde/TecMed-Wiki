@@ -3,7 +3,7 @@ title: "Elizabeth Andriano"
 draft: false
 slug: "series"
 series: ["Participantes"]
-series_order: 1
+series_order: 2
 seriesOpened: true
 ---
 
