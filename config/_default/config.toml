@@ -3,8 +3,8 @@
 # https://nunocoracao.github.io/blowfish/docs/getting-started/
 
 theme = "blowfish"
-# baseURL = "https://your_domain.com/"
-defaultContentLanguage = "en"
+# baseURL = "https://tecmed-analytics.netlify.app/"
+defaultContentLanguage = "es"
 
 enableRobotsTXT = true
 paginate = 20
