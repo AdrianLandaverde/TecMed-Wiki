@@ -9,4 +9,3 @@ cascade:
 ---
 
 Aquí debe ir una lista de los participantes. Una pequeña descripción de cada uno y su aportación
----
