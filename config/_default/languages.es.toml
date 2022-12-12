@@ -5,17 +5,16 @@ isoCode = "en"
 weight = 1
 rtl = false
 
-title = "Blowfish"
-# logo = "img/logo.png"
-description = "My awesome website"
-# copyright = "Copy, _right?_ :thinking_face:"
+title = "TecMed Analytics"
+logo = "img/blowfish_logo.png"
+description = "Información del proyecto de análisis de datos de TecMed "
 
 dateFormat = "2 January 2006"
 
 [author]
-  name = "Your name here"
+  name = "TecMed Analytics"
   image = "img/blowfish_logo.png"
-  headline = "I'm only human"
+  headline = "Usando los datos por un campus más seguro"
   bio = "A little bit about you"
   # links = [
   #   { email = "mailto:hello@your_domain.com" },
